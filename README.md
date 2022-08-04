@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @userMatMik
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m currently learning JS and Vue3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
