@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @userMatMik
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning JS and VUE3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 userMatMik/userMatMik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
